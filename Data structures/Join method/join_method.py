@@ -1,4 +1,7 @@
 fruits = ['apples', 'bananas', 'peaches', 'grapes']
 separator = ' and I like '
-joined = ???
+joined = separator.join(fruits)
 print('I like', joined)
+
+
+print(' '.join(fruits))

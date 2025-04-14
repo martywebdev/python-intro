@@ -3,8 +3,8 @@ files:
   - name: dict_key_value.py
     visible: true
     placeholders:
-      - offset: 225
-        length: 0
+      - offset: 200
+        length: 3
         placeholder_text: ???
         initial_state:
           length: 3
@@ -24,5 +24,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER6
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Sun, 13 Apr 2025 03:43:23 UTC"
+  time: "Mon, 14 Apr 2025 12:13:44 UTC"
 record: -1

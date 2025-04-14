@@ -3,25 +3,25 @@ files:
   - name: in_keyword.py
     visible: true
     placeholders:
-      - offset: 235
-        length: 27
+      - offset: 236
+        length: 5
         placeholder_text: '''???'''
         initial_state:
           length: 5
           offset: 236
         initialized_from_dependency: false
         encrypted_possible_answer: b/HiOb8sHH/wKluMBgEJIJYQmjfxL0orymYbXlMpaoY=
-        selected: true
+        selected: false
         status: Solved
-      - offset: 270
-        length: 30
+      - offset: 249
+        length: 5
         placeholder_text: '''???'''
         initial_state:
           length: 5
           offset: 249
         initialized_from_dependency: false
         encrypted_possible_answer: tnuJqjYBc6ZZy9FHC1NzlWcq46t6h3qZ6o6OHgfPqF4=
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/__init__.py
@@ -34,5 +34,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER6
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Sun, 13 Apr 2025 03:58:17 UTC"
+  time: "Mon, 14 Apr 2025 12:13:50 UTC"
 record: -1

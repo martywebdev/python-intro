@@ -3,8 +3,8 @@ files:
   - name: tuples.py
     visible: true
     placeholders:
-      - offset: 161
-        length: 13
+      - offset: 155
+        length: 0
         placeholder_text: ???
         initial_state:
           length: 3
@@ -13,15 +13,15 @@ files:
         encrypted_possible_answer: IAk8UB2JaIUIXRXtJ1Qdog==
         selected: true
         status: Solved
-      - offset: 189
-        length: 28
+      - offset: 155
+        length: 0
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 179
         initialized_from_dependency: false
         encrypted_possible_answer: 2WTPq+2yTy3RpoySooYDsQ==
-        selected: true
+        selected: false
         status: Solved
     learner_created: false
   - name: tests/__init__.py
@@ -34,5 +34,5 @@ feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER6
 status: Solved
 feedback:
   message: Congratulations!
-  time: "Sat, 12 Apr 2025 11:03:46 UTC"
+  time: "Mon, 14 Apr 2025 12:13:29 UTC"
 record: -1

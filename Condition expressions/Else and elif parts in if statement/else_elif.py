@@ -12,6 +12,8 @@ else:
 name = "John"
 
 # TODO: check if name is equal to "John"
+if name == 'John':
     print(True)
 # TODO: otherwise...
+else:
     print(False)

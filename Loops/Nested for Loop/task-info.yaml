@@ -11,8 +11,8 @@ files:
           offset: 61
         initialized_from_dependency: false
         encrypted_possible_answer: V3V3n0HqAkWOIm6tp2L3eLAECl9btk5i5tXoCR+SikU=
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: tests/test_task.py
     visible: false
@@ -24,5 +24,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Loops+/+Nested+For+Loop
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 24 Apr 2025 12:38:50 UTC"
 record: -1

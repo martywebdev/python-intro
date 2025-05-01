@@ -4,15 +4,15 @@ files:
     visible: true
     placeholders:
       - offset: 194
-        length: 44
+        length: 35
         placeholder_text: '''Use list comprehension to build a new list'''
         initial_state:
           length: 44
           offset: 194
         initialized_from_dependency: false
         encrypted_possible_answer: Enurdi8KeCpnVRpF37yBmV4QwWBxwsdL6PJudebBPe2WeA5RxW3TFxdHsCMuu4cR
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: tests/test_task.py
     visible: false
@@ -24,5 +24,8 @@ files:
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Loops+/+List+Comprehension
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 01 May 2025 07:30:24 UTC"
 record: -1

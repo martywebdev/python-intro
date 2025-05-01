@@ -11,8 +11,8 @@ files:
           offset: 146
         initialized_from_dependency: false
         encrypted_possible_answer: fQosKnXmMQG+jvq1zHKTkw==
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: tests/test_task.py
     visible: false
@@ -30,5 +30,8 @@ files:
   - name: tests/decorated_test_function.py
     visible: false
     learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 01 May 2025 09:30:44 UTC"
 record: -1

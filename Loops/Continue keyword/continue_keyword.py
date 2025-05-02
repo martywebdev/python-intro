@@ -4,6 +4,7 @@ for i in range(5):
     print(i)
 
 for x in range(10):
-    # Add a condition
+    if x % 2 != 1:
+        continue
         # Add a keyword to skip print(x) for this loop
     print(x)

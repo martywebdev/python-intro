@@ -10,19 +10,22 @@ files:
     visible: true
     placeholders:
       - offset: 185
-        length: 19
+        length: 27
         placeholder_text: "length=5, 5, '____'"
         initial_state:
           length: 19
           offset: 185
         initialized_from_dependency: false
         encrypted_possible_answer: 4tNnVg2IYnyCL8qZzfMXriBjyIbiv1+xt7GuvaDF4uY=
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: tests/test_task.py
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Functions+/+Argument+Order
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 18 May 2025 11:04:28 UTC"
 record: -1

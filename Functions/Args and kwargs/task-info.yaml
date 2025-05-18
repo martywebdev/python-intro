@@ -4,39 +4,42 @@ files:
     visible: true
     placeholders:
       - offset: 1159
-        length: 3
+        length: 70
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 1159
         initialized_from_dependency: false
         encrypted_possible_answer: fozqN8vYiXy46/PfV2n/uBMRY1M6hLs4CiQ9k4+Z2x0mrGwWonmfSgum9jefnn5BrrcqylmuBObywDVE+gU+uA==
-        selected: false
-        status: Unchecked
-      - offset: 1312
-        length: 3
+        selected: true
+        status: Solved
+      - offset: 1381
+        length: 0
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 1312
         initialized_from_dependency: false
         encrypted_possible_answer: oS8rPoZMlSyTIOGYwwJFVLzsf5mBZeDdekLP/SXgEbmpNLzNX0CwudTFq6nxenNLtIiAr+3NOZNw+jSX7olO0g==
-        selected: false
-        status: Unchecked
-      - offset: 1443
-        length: 3
+        selected: true
+        status: Solved
+      - offset: 1509
+        length: 68
         placeholder_text: ???
         initial_state:
           length: 3
           offset: 1443
         initialized_from_dependency: false
         encrypted_possible_answer: UFOGCmwin5FR1qgKRt8E9ufDpk2jgFhS91uZNCpmpVZHOAspZGK6Ss7yQYQmQ3R8
-        selected: false
-        status: Unchecked
+        selected: true
+        status: Solved
     learner_created: false
   - name: tests/test_task.py
     visible: false
     learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfRlDlldKfuq-cHMNFfHMER61P1PRIan7KG6yp1GvaweDI7GA/viewform?usp=pp_url&entry.2103429047=Functions+/+Args+and+Kwargs
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 18 May 2025 12:58:43 UTC"
 record: -1

@@ -30,11 +30,12 @@ def cat(food, *args, state='still hungry', action='meow', breed='Siamese'):
 
 
 # Declare a list of phrases that will be capitalized according to the task description
-phrases = [???]
+phrases = ['It is too fat.', 'You are feeding your cat too much.']
 
 # Declare a dict of keyword arguments to insert into the narrative.
 # The keys should match the named arguments of the cat() function.
-keywords = {???}
+keywords = {'state': 'fat', 'action': 'eat', 'breed': 'Maine Coon'}
 
 # Call the cat() function like in the example above, with some food, phrases, and keywords to print the required output.
-cat(???)
+cat('anything', *phrases, **keywords)
+
